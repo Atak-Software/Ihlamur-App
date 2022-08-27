@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870611412688",
+    "project_id": "ihlamurapp-a7f14",
+    "storage_bucket": "ihlamurapp-a7f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870611412688:android:192e49a34e0d2a660660d5",
+        "android_client_info": {
+          "package_name": "com.atak.ihlamurapp.ihlamur_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870611412688-hhn9ktqmdjms65ke7cfacgcainrg7s78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN6eabvHUDa8ulD46J7VlQDRLtgYDeibA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870611412688-hhn9ktqmdjms65ke7cfacgcainrg7s78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
